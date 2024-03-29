@@ -1,2 +1,2 @@
-# Crime_Data-Analysis-Project
-In this project, we use python, specially Pymysql library to interact with a  MySQL database in order to analyze and gain insights from crime data  by performing data exploration, data analysis and data visualization.
+# Mini_Project_EDA_Netflix-Data
+This project contains an analysis of a Netflix dataset using Exploratory Data Analysis (EDA) techniques. The analysis focuses on uncovering insights, cleaning the data, and visualizing scenarios to provide valuable insights into Netflix viewership trends, content preferences, and audience demographics.
