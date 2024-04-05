@@ -4,18 +4,14 @@
 
 ### About Dataset :
 
-
 This dataset contains sales transactions from three different branches of Amazon, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows, the following columns: 
 
 
 **invoice_id:** Invoice of the sales made
 
-
 **branch:** Branch at which sales were made
 
-
 **city:** Location of the branch
-
 
 **customer_type:** Type of the customer
 
