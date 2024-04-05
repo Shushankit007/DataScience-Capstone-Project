@@ -2,8 +2,9 @@
 Welcome to my Data Analysis and Data Science Showcase repository! This repository is curated specifically to highlight my knowledge and projects in the Data Analytics & Data Science domain.
 
 Branches : 
-1. Crime_Data-Analysis-Project 
-2. Mini Project EDA of Netflix
+1. SQL-Capstone_Project_Amazon_Sales
+2. Capstone_Project-Crime_Data_Analysis 
+3. EDA-Mini_Project_Netflix
 
 #**SQL-Capstone_Project_Amazon_Sales :** This project aims to analyze sales data from three different branches of Amazon located in Mandalay, Yangon, and Naypyitaw. By exploring various aspects of the sales data, including product lines, sales trends, customer segments, and profitability, we seek to gain insights into factors influencing sales performance across different branches.
 
