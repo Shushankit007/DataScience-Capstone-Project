@@ -8,7 +8,6 @@ This dataset contains sales transactions from three different branches of Amazon
 
 
 **invoice_id:** Invoice of the sales made
-
 **branch:** Branch at which sales were made
 
 **city:** Location of the branch
