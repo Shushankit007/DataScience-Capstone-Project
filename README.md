@@ -5,53 +5,23 @@
 ### About Dataset :
 
 This dataset contains sales transactions from three different branches of Amazon, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows, the following columns: 
-
-
-**invoice_id:** Invoice of the sales made
-**branch:** Branch at which sales were made
-
-**city:** Location of the branch
-
-**customer_type:** Type of the customer
-
-
-**gender:** Gender of the customer making the purchase**
-
-
-**product_line:** Product line of the product sold
-
-
-**unit_price:** Price of each product
-
-
-**quantity:** Amount of the product sold
-
-
-**VAT:** Amount of tax on the purchase
-
-
-**total:** Total cost of the purchase
-
-
-**date:** Date of the purchase
-
-
-**time:** Time of the purchase
-
-
-**payment_method:** Payment method used
-
-
-**cogs:** Cost Of Goods Sold
-
-
-**gross_margin_percentage:** Gross margin percentage
-
-
-**gross_income:** Gross Income
-
-
-**rating:** Product Rating given by customer 
+1. **invoice_id:** Invoice of the sales made
+2. **branch:** Branch at which sales were made
+3. **city:** Location of the branch
+4. **customer_type:** Type of the customer
+5. **gender:** Gender of the customer making the purchase**
+6. **product_line:** Product line of the product sold
+7. **unit_price:** Price of each product
+8. **quantity:** Amount of the product sold
+9. **VAT:** Amount of tax on the purchase
+10. **total:** Total cost of the purchase
+11. **date:** Date of the purchase
+12. **time:** Time of the purchase
+13. **payment_method:** Payment method used
+14. **cogs:** Cost Of Goods Sold
+15. **gross_margin_percentage:** Gross margin percentage
+16. **gross_income:** Gross Income
+17. **rating:** Product Rating given by customer 
 
 ### **Analysis Objectives**
 * **Product Analysis**
