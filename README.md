@@ -51,7 +51,9 @@ The project aims to answer various business questions, including:
 ### **Conclusion**
 Through comprehensive analysis and exploration of the sales data, this project provides valuable insights into factors influencing sales performance across different branches of Amazon. By addressing key business questions, we gain a deeper understanding of sales trends, customer behavior, and areas for improvement, facilitating informed decision-making for business optimization.
 
-### **Provided files details ** : 
-1. **amazon_dataset_new.csv :-** This CSV File contains contains sales transactions from three different branches of Amazon, with 17 columns and 1000 rows
-2. **SQL_Project(part-1).sql :-** This SQL Text File contains the data wrangling, feature engineering work
-3. **SQL_Project(part-2).sql :-** This SQL Text File contains EDA and Business question answers 
+### Branch Project Contents ** : 
+* **CSV file :**
+1. **amazon_dataset_new.csv :-** This CSV File contains contains sales transactions from three different branches of Amazon, with 17 columns and 1000 rows, where I made some enhancements to simplify my upcoming project work
+* **SQL files**
+1. **SQL_Project(part-1).sql :-** This SQL Text File contains the data wrangling, feature engineering work
+2. **SQL_Project(part-2).sql :-** This SQL Text File contains EDA and Business question answers 
