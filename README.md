@@ -9,7 +9,7 @@ Branches :
 
 #**Amazon_Sales_Analyis_(SQL-CapstoneProject):** This project aims to analyze sales data from three different branches of Amazon located in Mandalay, Yangon, and Naypyitaw. By exploring various aspects of the sales data, including product lines, sales trends, customer segments, and profitability, we seek to gain insights into factors influencing sales performance across different branches.
 
-#**OTP_Verification_System_(Python-CapstoneProject):** 
+#**OTP_Verification_System_(Python-CapstoneProject):** The OTP Verification System project aims to streamline user authentication by generating and validating one-time passwords (OTPs). Through Python, this system ensures secure access to sensitive information or actions by sending unique OTPs via email. With an emphasis on simplicity and reliability, it offers a seamless user experience while prioritizing security
 
 #**Crime_Data_Analysis_(Capstone_Project) :** In this project, we use python, specially Pymysql library to interact with a MySQL database in order to analyze and gain insights from crime data by performing data exploration, data analysis and data visualization.
 
