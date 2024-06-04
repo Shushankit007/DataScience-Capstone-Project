@@ -2,11 +2,11 @@
 Welcome to my Data Analysis and Data Science Showcase repository! This repository is curated specifically to highlight my knowledge and projects in the Data Analytics & Data Science domain.
 
 Branches : 
-1. Exploring Coffee Quality Data with Power BI
-2. Amazon Sales Analysis
-3. OTP Verification System
-4. Laptop Price Prediction
-5. Crime Data Analysis with MySQL and Python
+1. Exploring_Coffee_Quality_Data_with_Power_BI
+2. Amazon_Sales_Analysis
+3. OTP_Verification_System
+4. Laptop_Price_Prediction
+5. Crime_Data_Analysis_with_MySQL_and_Python
 6. Statistical_&_EDA_for_Netflix_Insights
 
 ## **Exploring Coffee Quality Data with Power BI:**
